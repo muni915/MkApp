@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "197255149948",
+    "project_id": "mkapp-8e2e3"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197255149948:android:7a1379178b085d26",
+        "android_client_info": {
+          "package_name": "com.example.muni.mkapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197255149948-fl5ttr3e2qedl5s3hb3a3k1adm405qql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMib_c7m4cGhkWK6qiv3G_fSAz86R7lao"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
